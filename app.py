@@ -1,12 +1,10 @@
 print("I like cookies")
 print("Hello, nerd - Remote")
 print("Cats are better than dogs")
-
 print("Sometimes I think")
 print("Hello, nerd - Local")
 print("Sometimes I'm stupid")
 print("Sometimes I realize I'm stupid")
 print("Added during merge")
 print("Remote end")
-
 print("Local end")
